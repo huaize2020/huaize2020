@@ -7,4 +7,5 @@
 I'm working on:
 
 - [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)
+  - [awesome-koa](https://github.com/huaize2020/awesome-koa)
 - [awesome-frontend](https://github.com/huaize2020/awesome-frontend)
