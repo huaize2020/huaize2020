@@ -10,3 +10,5 @@ I'm working on:
   - [awesome-koa](https://github.com/huaize2020/awesome-koa)
   - [awesome-egg](https://github.com/huaize2020/awesome-egg)
 - [awesome-frontend](https://github.com/huaize2020/awesome-frontend)
+  - [awesome-react](https://github.com/huaize2020/awesome-react)
+
