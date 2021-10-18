@@ -9,6 +9,6 @@ I'm working on:
 - [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)
   - [awesome-koa](https://github.com/huaize2020/awesome-koa)
   - [awesome-egg](https://github.com/huaize2020/awesome-egg)
+  - [awesome-electron](https://github.com/electron-modules/awesome-electron)
 - [awesome-frontend](https://github.com/huaize2020/awesome-frontend)
   - [awesome-react](https://github.com/huaize2020/awesome-react)
-
