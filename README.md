@@ -12,6 +12,7 @@ I'm working on:
   - [awesome-electron](https://github.com/electron-modules/awesome-electron)
 - [awesome-frontend](https://github.com/huaize2020/awesome-frontend)
   - [awesome-react](https://github.com/huaize2020/awesome-react)
+  - [awesome-react-native](https://github.com/huaize2020/awesome-react-native)
 
 
 语雀长期招聘，欢迎加入：https://www.yuque.com/yuque/careers/jobs
